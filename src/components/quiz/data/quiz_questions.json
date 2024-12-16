@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "question": "What is the primary purpose of a savings account?",
+          "options": ["To earn high profits", "To store and save money securely", "To pay off loans", "To buy stocks"],
+          "correct_answer": "To store and save money securely",
+          "points": 10
+        },
+        // ... rest of the Easy questions ...
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "question": "What is compound interest?",
+          "options": ["Interest on the principal only", "Interest on principal and accumulated interest", "A fixed fee", "Interest paid monthly"],
+          "correct_answer": "Interest on principal and accumulated interest",
+          "points": 20
+        },
+        // ... rest of the Medium questions ...
+      ]
+    }
+  ]
+}

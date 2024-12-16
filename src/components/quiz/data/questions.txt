@@ -1,0 +1,38 @@
+{
+  "questions": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "question": "What is the primary purpose of a savings account?",
+          "options": ["To earn high profits", "To store and save money securely", "To pay off loans", "To buy stocks"],
+          "correct_answer": "To store and save money securely",
+          "points": 10
+        },
+        {
+          "question": "Which currency is used in Egypt?",
+          "options": ["Dollar", "Pound", "Euro", "Riyal"],
+          "correct_answer": "Pound",
+          "points": 10
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "question": "What is compound interest?",
+          "options": ["Interest on the principal only", "Interest on principal and accumulated interest", "A fixed fee", "Interest paid monthly"],
+          "correct_answer": "Interest on principal and accumulated interest",
+          "points": 20
+        },
+        {
+          "question": "What does APR stand for?",
+          "options": ["Annual Payment Ratio", "Average Payment Rate", "Annual Percentage Rate", "Annual Payback Rate"],
+          "correct_answer": "Annual Percentage Rate",
+          "points": 20
+        }
+      ]
+    }
+  ]
+}
